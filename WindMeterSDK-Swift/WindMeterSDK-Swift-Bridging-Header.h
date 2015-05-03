@@ -6,8 +6,8 @@
 //  Copyright (c) 2015 Christopher Walmsley. All rights reserved.
 //
 
-#ifndef WindMeterSDK_Swift_WindMeterSDK_Swift_Bridging_Header_h
-#define WindMeterSDK_Swift_WindMeterSDK_Swift_Bridging_Header_h
+//This file is used to access Objective-C code in this SWIFT based project
 
-
-#endif
+#import "WindMeterSDK.h"
+#import "AnemometerObservation.h"
+#import "SensorStatus.h"
